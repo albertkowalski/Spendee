@@ -1,5 +1,5 @@
 # Spendee
-Import automation for Spendee wrote in python. 
+Import automation for Spendee. Wrote in python. 
 
 "I've created these scripts to assist with limited automation when importing bank transaction history."
 
